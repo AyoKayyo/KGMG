@@ -3,8 +3,7 @@ VERSION:3.0
 FN:KG Media Group Photography
 ORG:KG Photography & Visual Media
 TITLE:Photographer
-TEL;TYPE=CELL:+17178580276
-TEL;TYPE=WHATSAPP:+17178580276
+TEL;TYPE=CELL,VOICE,WHATSAPP:+1-717-858-0276
 EMAIL;TYPE=WORK:contactus@kgmedia.group
 ADR;TYPE=WORK:;;34 W Philadelphia St;York;PA;17401;USA
 URL;TYPE=Website:http://www.kgmedia.group/
